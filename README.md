@@ -33,4 +33,4 @@ Charlie,21,,88
 ## How To Run
 
 ```bash
-python cleaner.py
+python csv_cleaner.py
